@@ -7,6 +7,9 @@
   ## Notes ##
   * This was for a class project 
   * There are different ways to implement this, i.e. classes for matrices
-  * Instead of outputing the weights for all stocks that the program can find for, the program can be coded so that the user enters the stocks they what the weights for and have the code output the weights for *only those* stocks
   * Downloading the information from the S&P 500 takes about 15-20 minutes
+    * Comment out the stockDataToFile function in main if you don't want to pull the data repeatedly
+  * To run the program, the tickers.txt needs to be in the same file as does an empty "quotes" folder
+  * Instead of outputing the weights for all stocks that the program can find for, the program can be coded so that the user enters the stocks they what the weights for and have the code output the weights for *only those* stocks
+  
   
